@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanyazedi
 - 👀 I’m interested in coding, dancing and basketball.
-- 🌱 I’m currently learning Full stack development.
+- 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on web dev projects.
 - 📫 How to reach me zaiditania@gmail.com 
 - 😄 Pronouns: she/her
