@@ -1,3 +1,5 @@
+## Hola! I am a website geek.
+
 - 👋 Hi, I’m Taniya Zedi
 - 👀 I’m interested in coding, dancing and basketball.
 - 🌱 I’m currently learning ReactJS.
@@ -87,4 +89,7 @@
 <br clear="both">
 
 ###
+
+## Reach me at:
+Linkedin - 
 
